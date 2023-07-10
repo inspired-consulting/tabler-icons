@@ -33,3 +33,7 @@ packages/icons*/icons/*
 
 .turbo
 .sass-cache
+
+.bundle
+vendor
+
